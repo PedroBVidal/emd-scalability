@@ -1,2 +1,2 @@
 # emd-scalabily
-evaluating the  DeepFace-EMD scalability using bigger backbones
+evaluating DeepFace-EMD scalability using bigger backbones
